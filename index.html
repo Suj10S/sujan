@@ -82,7 +82,7 @@
 
         }
         .secondSection{
-            max-width: 80px;
+            max-width: 80vw;
             margin: auto;
         }
         .secondSection h1{
